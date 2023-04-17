@@ -1,37 +1,21 @@
 
-# 👨‍💻 Mothusi Molorane
+# 👨‍💻 About | SSO
 
-**`Software Developer Java, Spring, Flutter`**
+**`Southern Sotho Bible`**
 
-I am Mothusi a full-stack developer and content creator on programming. I focus on creating content on Java technology. My video contents are not created the same way. I sometimes do not plan to create videos. I like to make my videos where I do slides presentations followed by practical demos. I sometimes host other developers to have practical coding sessions. I publish my content o my YouTube channel "[JavaSpace]" 
+I am Mothusi a Software Engineer and welcome to SSO aka Buka Ya Khale. This is an app that I created to enable Sesotho speaking people to have the bible 
+in their vernecular on their phones. This idea started around 2013/2014 as a personal project. The project has undergone four evolution phases.
+First version was just a normal android app reading text files
+Second version was Cordova reading sqlite database
+Third version was android again reading sqlite
+Fourth version now is Flutter.
 
-## 🤩 Support YouTube. I am constantly uploading content
-
-[![YouTube](https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white)](https://www.youtube.com/channel/UC5BkBVEep9_jc54l9W_SW0g?sub_confirmation=1 "Subscribe to my YouTube channel")
-  
-## 🤗 LinkedIn
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/linkedin-red.svg?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/mothusi-molorane-88998130/ "LinkedIn profile")
+## Inspiration
+As a software engineer and a follower of Jesus, I was compelled to create this app as a catalyst to helping dissemintate the gospel
  
-## 🤩 JavaSpaceGithub
-[![JavaSpace Github](https://custom-icon-badges.demolab.com/badge/git-red.svg?logo=git&logoColor=fff)](https://github.com/java-space "JavaSpace GitHub")
+## 👨‍💻 View Source Code
+[![Buka Ea Khale Github](https://custom-icon-badges.demolab.com/badge/git-red.svg?logo=git&logoColor=fff)](https://github.com/molorane/buka-khale-flutter "Buka Ea Khale")
 
 ## 👨‍💻 Technologies
-
-![Java](https://custom-icon-badges.demolab.com/badge/-Java-47A248?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://custom-icon-badges.demolab.com/badge/-Spring-000000?style=for-the-badge&logo=spring&logoColor=white)
 ![Flutter](https://custom-icon-badges.demolab.com/badge/-Flutter-218AAB?style=for-the-badge&logo=flutter&logoColor=white)
 
-<!--
-**molorane/molorane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
