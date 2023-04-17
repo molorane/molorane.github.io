@@ -11,7 +11,9 @@ Third version was android again reading sqlite
 Fourth version now is Flutter.
 
 ## Inspiration
-As a software engineer and a follower of Jesus, I was compelled to create this app as a catalyst to helping dissemintate the gospel
+As a software engineer and a follower of Jesus, I was compelled to create this app to help dissemintate the gospel. 
+Someone needs Jesus.
+Someone needs some love.
  
 ## 👨‍💻 View Source Code
 [![Buka Ea Khale Github](https://custom-icon-badges.demolab.com/badge/git-red.svg?logo=git&logoColor=fff)](https://github.com/molorane/buka-khale-flutter "Buka Ea Khale")
