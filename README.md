@@ -33,7 +33,6 @@ Use of our Website.
 
 * Links from or to websites outside our website are meant for convenience only. We do not review, endorse, approve or control, and are not responsible for any sites linked from or to our website, the content of those sites, the third parties named therein, or their products and services. Linking to any other site is at your sole risk and we will not be responsible or liable for any damages in connection with linking. Links to downloadable software sites are for convenience only and we are not responsible or liable for any difficulties or consequences associated with downloading the software. Use of any downloaded software is governed by the terms of the license agreement, if any, which accompanies or is provided with the software.
 
-
- ## Questions or Concerns
+## Questions or Concerns
 Please send all questions, comments and feedback to us at [biblesos13@gmail.com].
 The app is a work in progress, just feel free to contact us for any suggestiongs using the Contact us button on the mobile app. Click About to see the button.
